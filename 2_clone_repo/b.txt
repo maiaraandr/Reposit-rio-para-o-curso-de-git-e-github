@@ -2,3 +2,5 @@ fazendo
 alterações
 no repositorio local
 para testar
+enviar
+para o original
